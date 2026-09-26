@@ -1,0 +1,8 @@
+{
+  "downstream": {
+    "transport": "stdio",
+    "command": "python",
+    "args": ["-m", "my_downstream_server"],
+    "env": {}
+  }
+}
